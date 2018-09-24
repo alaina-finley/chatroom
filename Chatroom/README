@@ -1,0 +1,16 @@
+README
+My partner was Kyle Beard
+
+To compile the project, you need to locate the json-simple-1.1.jar file and include this in the compilation.
+
+The command to run the server is 
+java cp :./<path to jar file>/json-simple-1.1.jar ChatroomServer
+
+And the command to run the client is
+java cp :./<path to jar file>/json-simple-1.1.jar ChatScreen localHost <DesiredUsername>
+
+This should launch the chat screen and run on the ChatroomServer
+
+To be honest, I thought Kyle and I worked well together. He worked a lot on the ChatScreen/Helper Thread (client)
+and I worked on the Server and Connection (server)
+All in all, I would say that the work distribution was even. 
